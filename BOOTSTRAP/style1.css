@@ -1,0 +1,25 @@
+.img{
+	height: 325px;
+    background: #aaa;
+}
+.button{
+	background-color: blue;
+	color: white;
+	border: 2px solid blue;
+	border-radius: 8px;
+}
+.fbutton{
+	background-color: blue;
+	color: white;
+	border: 2px solid blue;
+	border-radius: 8px;
+}
+.gbutton{
+	background-color: skyblue;
+	color: white;
+	border: 2px solid skyblue;
+	border-radius: 8px;
+}
+.pl{
+	color: blue;
+}

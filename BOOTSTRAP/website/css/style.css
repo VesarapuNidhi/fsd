@@ -1,0 +1,491 @@
+.a{
+	height: 3750px;
+	width: 1250px;
+	background-color: blueviolet;
+}
+.b{
+	height: 400px;
+	width: 1250px;
+	background-color: blueviolet;
+}
+.bhead{
+	color: orange;
+	padding-top: 160px;
+	padding-left: 50px;
+}
+.bp{
+	color: white;
+	padding-left: 50px;
+}
+.bbutton{
+	background-color: orange;
+	color: whitesmoke;
+	border-color: orangered;
+	margin-left: 50px;
+}
+.c{
+	height: 350px;
+	width: 1250px;
+	background-color: lightgrey;
+}
+.cd{
+	height: 300px;
+	width: 600px;
+	background-color: lightgrey;
+	border: 2px solid whitesmoke;
+	float: left;
+	margin: 5px;
+	background-image:url("D:/Capstone Project1/website/images/img1.jpg");
+	background-size: 600px 300px;
+	background-repeat: no-repeat;
+}
+.cdi{
+	height: 300px;
+	width: 600px;
+	background-color: lightgrey;
+	border: 2px solid lightgrey;
+	float: right;
+	margin: 5px;
+}
+.cdih{
+	color: blueviolet;
+	font-style: italic;
+}
+.cdip{
+	color: black;
+}
+.cdiv{
+	height: 150px;
+	width: 150px;
+	border: 2px solid darkblue;
+	background-color: darkblue;
+	color: white;
+	align: right;
+	margin-left: 250px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+.d{
+	height: 350px;
+	width: 1250px;
+	background-color: blueviolet;
+}
+.dd{
+	height: 335px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+	float: left;
+	margin: 5px;
+}
+.ddi{
+	height: 335px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid whitesmoke;
+	border-radius: 30px;
+	float: right;
+	margin: 5px;
+	background-image:url('D:/Capstone Project1/website/images/img2.jpg');
+	background-size: 600px 335px;
+	background-repeat: no-repeat;
+}
+.dh{
+	color: orange;
+	padding-top: 60px;
+	padding-left: 180px;
+}
+.dp{
+	color: white;
+	padding-left: 150px;
+}
+.dbutton{
+	background-color: orange;
+	color: whitesmoke;
+	border-color: orangered;
+	margin-left: 180px;
+}
+.e{
+	height: 750px;
+	width: 1250px;
+	background-color: lightgrey;
+}
+.ed{
+	height: 150px;
+	width: 1200px;
+	background-color: lightgrey;
+	border: 2px solid lightgrey;
+}
+.edi{
+	height: 575px;
+	width: 1100px;
+	background-color: lightgrey;
+	border: 2px solid lightgrey;
+	margin-left: 70px;
+}
+.edh{
+	color: blueviolet;
+	text-align: center;
+}
+.edhe{
+	color: blueviolet;
+	text-align: center;
+}
+.ediv{
+	height: 280px;
+	width: 1050px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.edivi{
+	height: 280px;
+	width: 1050px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.eed{
+	height: 270px;
+	width: 300px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	float: left;
+	margin-left: 30px;
+}
+.eeed{
+	height: 270px;
+	width: 300px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	float: left;
+	margin-left: 35px;
+	margin-bottom: 10px;
+}
+.eeeed{
+	height: 270px;
+	width: 300px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	float: right;
+	margin-right: 30px;
+}
+.eedi{
+	height: 270px;
+	width: 300px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	float: left;
+	margin-left: 30px;
+}
+.eeedi{
+	height: 270px;
+	width: 300px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	float: left;
+	margin-left: 35px;
+	margin-bottom: 10px;
+}
+.eeeedi{
+	height: 270px;
+	width: 300px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	float: right;
+	margin-right: 30px;
+}
+.dee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	background-image: url('D:/Capstone Project1/website/images/img3.jpg');
+	background-size: 290px 130px;
+	background-repeat: no-repeat;
+}
+.diee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.deee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	background-image: url('D:/Capstone Project1/website/images/img4.jpg');
+	background-size: 290px 130px;
+	background-repeat: no-repeat;
+}
+.dieee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.deeee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	background-image: url('D:/Capstone Project1/website/images/img5.jpg');
+	background-size: 290px 130px;
+	background-repeat: no-repeat;
+}
+.dieeee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.divee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	background-image: url('D:/Capstone Project1/website/images/img6.jpg');
+	background-size: 290px 130px;
+	background-repeat: no-repeat;
+}
+.diviee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.diveee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	background-image: url('D:/Capstone Project1/website/images/img7.jpg');
+	background-size: 290px 130px;
+	background-repeat: no-repeat;
+}
+.divieee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.diveeee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	background-image: url('D:/Capstone Project1/website/images/img8.jpg');
+	background-size: 290px 130px;
+	background-repeat: no-repeat;
+}
+.divieeee{
+	height: 130px;
+	width: 290px;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+}
+.dieeh{
+	color: darkblue;
+	text-align: center;
+}
+.dieep{
+	color: black;
+	text-align: center;
+}
+.dbutton{
+	color: white;
+	background-color: orange;
+	padding-bottom: 3px;
+}
+.f{
+	height: 500px;
+	width: 1250px;
+	background-color: blueviolet;
+}
+.fd{
+	height: 490px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid blueviole;
+	float: left;
+}
+.fdi{
+	height: 490px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+	float: right;
+}
+.ffd{
+	height: 235px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+	background-image: url('D:/Capstone Project1/website/images/img9.jpg');
+	background-size: 600px 235px;
+	background-repeat: no-repeat;
+}
+.ffdiv{
+	height: 235px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+}
+.ffdi{
+	height: 235px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+	background-image: url('D:/Capstone Project1/website/images/img10.jpg');
+	background-size: 600px 235px;
+	background-repeat: no-repeat;
+}
+.ffdivi{
+	height: 235px;
+	width: 600px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+}
+.fp{
+	color: white;
+	text-align: center;
+}
+.ffdh{
+	color: orange;
+	text-align: center;
+}
+.g{
+	height: 300px;
+	width: 1250px;
+	background-color: lightgrey;
+}
+.gh{
+	color: orange;
+	text-align: center;
+	text-decoration: underline;
+}
+.gd{
+	height: 230px;
+	width: 1250px;
+	background-color: lightgrey;
+	border: 2px solid lightgrey;
+}
+.gdd{
+	height: 220px;
+	width: 320px;
+	background-color: whitesmoke;
+	border: 2px solid whitesmoke;
+	float: left;
+	margin-left: 30px;
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+.gddd{
+	height: 220px;
+	width: 320px;
+	background-color: whitesmoke;
+	border: 2px solid whitesmoke;
+	float: left;
+	margin-left: 60px;
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+.gdddd{
+	height: 230px;
+	width: 320px;
+	background-color: whitesmoke;
+	border: 2px solid whitesmoke;
+	float: right;
+	margin-right: 30px;
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+.h{
+	height: 700px;
+	width: 1250px;
+	background-color: blueviolet;
+}
+.hd{
+	height: 400px;
+	width: 750px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+}
+.hdi{
+	height: 398px;
+	width: 245px;
+	background-color: darkblue;
+	border: 2px solid blueviolet;
+	float: left;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+.hdv{
+	height: 398px;
+	width: 245px;
+	background-color: orange;
+	border: 2px solid blueviolet;
+	float: left;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+.hds{
+	height: 398px;
+	width: 245px;
+	background-color: deeppink;
+	border: 2px solid blueviolet;
+	float: right;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+.hdiv{
+	height: 350px;
+	width: 750px;
+	background-color: blueviolet;
+	border: 2px solid blueviolet;
+	margin: 40px;
+	position: relative;
+}
+.hdivi{
+	height: 345px;
+	width: 355px;
+	background-color: white;
+	border: 2px solid white;
+	float: left;
+}
+.hdivis{
+	height: 345px;
+	width: 355px;
+	background-color: white;
+	border: 2px solid white;
+	float: right;
+}
+.hh{
+	color: orange;
+	text-align: left;
+}
+.hbutton{
+	color: white;
+	background-color: orange;
+}
+.hdh{
+	color: orange;
+	text-align: left;
+}
+.foot{
+	text-align: left;
+}
+.i{
+	height: 250px;
+	width: 1250px;
+	background-color: whitesmoke;
+}.j{
+	height: 180px;
+	width: 1250px;
+	background-color: black;
+}

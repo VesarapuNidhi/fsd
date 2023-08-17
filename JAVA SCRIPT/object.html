@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1>Objects</h1>
+	<p>open console</p>
+	<script type="text/javascript">
+		var obj={
+			'name':'venkat',
+			'roll':552,
+			'college':'aec',
+			'branch':'cse'
+		}
+		console.log(obj);
+		console.log(obj.name);
+		console.log(obj.roll);
+		console.log(obj.college);
+		console.log(obj.branch);
+		// var trainee={
+		// 	'name':'nidhi',
+		// 	'roll':551,
+		// 	'college':'aec',
+		// 	'branch':'cse'
+		// }
+		// document.write(trainee);
+		// document.write(trainee.name);
+		// document.write(trainee.roll);
+		// document.write(trainee.college);
+		// document.write(trainee.branch);
+		var trainees=[{
+			'name':'nidhi',
+			'roll':551,
+			'college':'aec',
+			'branch':'cse',
+			'email':'nidhi@gmail.com'
+		},
+		{
+			'name':'likki',
+			'roll':516,
+			'college':'aec',
+			'branch':'cse',
+			'email':'likki@gmail.com'
+		},
+		{
+			'name':'janu',
+			'roll':517,
+			'college':'aec',
+			'branch':'cse',
+			'email':'janu@gmail.com'
+		},
+		{
+			'name':'sahi',
+			'roll':501,
+			'college':'aec',
+			'branch':'cse',
+			'email':'sahi@gmail.com'
+		},
+		{
+			'name':'swetha',
+			'roll':530,
+			'college':'aec',
+			'branch':'cse',
+			'email':'swetha@gmail.com'
+		},
+		{
+			'name':'venkat',
+			'roll':552,
+			'college':'aec',
+			'branch':'cse',
+			'email':'venkat@gmail.com'
+		},
+		{
+			'name':'venkatesh',
+			'roll':528,
+			'college':'aec',
+			'branch':'cse',
+			'email':'venkatesh@gmail.com'
+		},]
+		//  let text = "";
+        //  for (let i = 0; i < trainees.length; i++) {
+        //   text += trainees[i].name;
+        //   text += trainees[i].roll;
+        //   text += trainees[i].college;
+        //   text += trainees[i].branch;
+        // }
+        // console.log(text);
+       for (var i = 0; i < trainees.length; i++) {
+       	// console.log(trainees[i]);
+       	console.log(i+1,trainees[i].name,trainees[i].roll,trainees[i].college,trainees[i].branch);
+       }
+       for (var i=0;i<trainees.length;i++){
+      for (var key in trainees[i]){
+        document.write(trainees[i][key]+"<br>")
+      }
+      document.write("<br>")
+    }
+    // for (var i=0;i<trainees.length;i++)
+    // 	{
+    // 	 for (var key in trainees[i])
+    // 	 	{ 
+    // 	 		document.write(trainees[i][key]+"<br>") 
+    // 	 	} 
+    // 	 }
+
+
+
+		// console.log(trainees[0]);
+		// console.log(trainees[1]);
+		// console.log(trainees[0].name);
+		// console.log(trainees[1].name);
+		// console.log(trainees[0]);
+		// console.log(trainees[1]);
+		// console.log(trainees[2]);
+		// console.log(trainees[3]);
+		// console.log(trainees[4]);
+	</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>var,let and const</title>
+</head>
+<body>
+	<h1>var,let and const</h1>
+	<script type="text/javascript">
+		var a = 10;
+		document.write(a+" ");
+		let b = 20;
+		document.write(b+" ");    //For let reinstialisation is possible
+		// let b = 20;   For let redeclaration is not possible
+		b=30;
+		document.write(b);  
+		const pi = 3.14;
+		// pi = 6.23;           //Assignment to constant variable not possible as valur does not change.
+		document.write(pi);     //let and const are block level variables 
+		const atmcardno = 123456789;
+		document.write(atmcardno);
+	</script>
+</body>
+</html>
