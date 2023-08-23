@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<form id="myform">
+<label>Enter name</label>
+<input type="text"><br>
+<label>Number</label>
+<input type="number" name=""><br>
+<select style="width: 300px;height: 30px">
+<option>~~select College~~</option>
+<option value="AEC">AEC</option>
+<option value="AECT">AECT</option>
+<option value="ACOE">ACOE</option>
+</select><br><br>
+<input type="button" onclick="sample()" value="submit form"><br>
+<input type="button" onclick="resetform()" value="Reset">
+</form>
+<script type="text/javascript">
+function sample(){
+document.getElementById('myform').submit()
+}
+function resetform(){
+document.getElementById('myform').reset()
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>inline events</title>
+</head>
+<body>
+	 <!-- <button onclick="alert('ongoing')">Click Here</button> -->
+	<button onclick="test()" id="btn_id">Click Here</button>
+	<script type="text/javascript">
+		function test(){
+			alert("testing......")
+			document.body.style.background = 'pink'
+		}
+
+
+
+		//2nd way
+		// let btn = document.getElementById('btn_id');
+		// btn.onclick = function(){
+		// 	alert("hi")
+		// 	document.body.style.background = "gold"
+		// } 
+
+
+
+		//3rd way
+		// let btn = document.getElementById('btn_id');
+		// btn.addEventListener('click',test)
+		// function test(){
+		// 	alert("hi")
+		// 	document.body.style.background = "violet"
+		// } 
+
+
+		// anonymousfunction
+		let btn = document.getElementById('btn_id');
+		btn.addEventListener('click',function(){
+			alert("hi")
+			document.body.style.background = "skyblue"
+		} )
+	</script>
+</body>
+</html>

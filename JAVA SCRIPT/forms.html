@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Forms</title>
+	<script>
+function validateForm() {
+  let x = document.forms["myForm"]["fname"].value;
+  if (x == "") {
+    alert("Name must be filled out");
+    return false;
+  }
+}
+</script>
+</head>
+<body>
+	<form id="myform" name="myForm">
+		First Name:<input type="text" name="fname"><br>
+		Last Name:<input type="text" name="lname"><br><br>
+		<select name="colleges">
+			<option>---select college---</option>
+			<option value="AEC">AEC</option>
+			<option value="ACET">ACET</option>
+			<option value="ACOE">ACOE</option>
+		</select><br><br>
+		<input type="button" onclick="formsubmit()" value="submit form">
+	</form>
+	<script type="text/javascript">
+		function formsubmit() {
+			let form = document.getElementById('myform');
+			form.submit();
+			//form.reset();
+			if(fname=='')
+			{
+				alert('enter the name');
+				return false;
+			}
+		}
+	</script>
+</body>
+</html>
